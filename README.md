@@ -12,7 +12,25 @@ My day-to-day work spans distributed systems, event-driven architecture, data-he
 - Will the telemetry help someone debug the system under pressure?
 - Is the complexity paying for itself?
 
-## Public work
+## Building now
+
+### [handoffd](https://github.com/Kriso1337/handoffd)
+
+I'm building `handoffd` because important team messages should not depend on
+someone noticing a notification at exactly the right moment. It turns actionable
+Slack messages into focused Claude Code or Codex sessions, while keeping routing,
+thread state, and delivery failures explicit. Read-only MR/PR review worktrees
+are available as an opt-in mode.
+
+Contributions are welcome. The project is young enough that a thoughtful PR can
+still shape it. Useful areas include terminal backends, Git providers, routing
+and delivery reliability, and setup across macOS and Linux.
+
+[Repository](https://github.com/Kriso1337/handoffd) |
+[Contribution guide](https://github.com/Kriso1337/handoffd/blob/main/CONTRIBUTING.md) |
+[Open issues](https://github.com/Kriso1337/handoffd/issues)
+
+## Other public work
 
 GitHub shows a small slice of that work, mostly tools around data movement, application events, databases, and background processing:
 
